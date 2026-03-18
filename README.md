@@ -1,0 +1,1 @@
+.gitignor evita que nombre.txt sube al repositorio con el resto de archivos
